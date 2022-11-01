@@ -1,0 +1,14 @@
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AwsBucket.exe
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AwsBucket.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AwsBucket.deps.json
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AwsBucket.runtimeconfig.json
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AwsBucket.pdb
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Internal Training\AwsBucket\AwsBucket\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

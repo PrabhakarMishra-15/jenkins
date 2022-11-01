@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DVFyuwvZe5clu05qVnR+OPkd6b1pRQf1wx2jOdoR0lc=",
+  "Source": "AwsBucket",
+  "BasePath": "_content/AwsBucket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bbARlzC4jfFgzHPTXLinC78bLTzqG1KbkIINpMyhFto=",
+  "Source": "AwsBucket",
+  "BasePath": "_content/AwsBucket",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
