@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["AwsBucket/AwsBucket.csproj", "AwsBucket/"]
-RUN dotnet restore "AwsBucket/AwsBucket.csproj"
+COPY ["./AwsBucket.csproj", "."]
+RUN dotnet restore "./AwsBucket.csproj"
 COPY . .
-WORKDIR "/src/AwsBucket"
+WORKDIR "/src/."
 RUN dotnet build "AwsBucket.csproj" -c Release -o /app/build
 
 FROM build AS publish
